@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello, I'm Samar 👋
 
-<!--
-**samarbuild/samarbuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on building modern websites and digital experiences for businesses and startups.
 
-Here are some ideas to get you started:
+Currently, I'm working on improving my frontend and MERN stack development skills while building modern web experiences, landing pages, and business-focused websites using tools like Framer and Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Working On
+- Learning and building with the MERN Stack
+- Creating modern SaaS-style website designs
+- Improving UI/UX and frontend development skills
+- Building freelance web projects
+- Working toward future agency and SaaS products
+
+## 🛠 Tech & Tools
+- React
+- Next.js
+- Node.js
+- MongoDB
+- Express.js
+- Tailwind CSS
+- JavaScript
+- Framer
+- Figma
+- Git & GitHub
+
+## 🌐 Connect With Me
+- Website: https://samarbuild.com
+- Email: hello@samarbuild.com
+
+---
+
+> Building modern digital experiences and growing toward scalable software products.
