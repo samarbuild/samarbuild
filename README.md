@@ -24,7 +24,7 @@ Currently, I'm working on improving my frontend and MERN stack development skill
 - Git & GitHub
 
 ## 🌐 Connect With Me
-- Website: samarbuild.com
+- Website: https://www.samarbuild.com/
 - Email: hello@samarbuild.com
 
 ---
