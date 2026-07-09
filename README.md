@@ -1,4 +1,4 @@
-# Hello, I'm Samar 👋
+# Hello, I'm Samar.
 
 I'm a software developer focused on building modern websites and digital experiences for businesses.
 
