@@ -2,7 +2,7 @@
 
 I'm a software developer focused on building modern websites and digital experiences for businesses.
 
-Currently, I'm working on improving my frontend and MERN stack development skills while building modern web experiences, landing pages, and business-focused websites using tools like Framer and Figma.
+Currently, I'm working on improving my frontend and MERN stack development skills while building modern web experiences, landing pages, and business-focused websites using tools like Framer.
 
 ## 🚀 What I'm Currently Working On
 - Learning and building with the MERN Stack
