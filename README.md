@@ -1,11 +1,25 @@
-Most business websites look good but fail to convert visitors into paying customers.
- 
-I design high-converting websites in Framer focused on speed, trust, and clear calls to action.
- 
-I primarily work with gyms, fitness businesses, and local brands looking to generate more leads.
- 
-If your website isn't bringing in inquiries, let's talk.
+# Hello, I'm Samar 👋
 
-www.samarbuild.com
+I design and build modern, high-converting websites using Framer.
 
-hello@samarbuild.com
+Currently focused on helping businesses create websites that are fast, responsive, and conversion-driven.
+
+## What I Do
+
+• Business Websites
+• Landing Pages
+• Responsive UI
+• Website Redesigns
+• Framer Development
+
+## Currently Learning
+
+• Advanced Framer
+• Figma
+• MERN Stack
+
+## Let's Connect
+
+🌐 samarbuild.com
+
+📧 hello@samarbuild.com
