@@ -1,4 +1,4 @@
-# Hello, I'm Samar 👋
+# Hello, I'm Samar
 
 I design and build modern, high-converting websites using Framer.
 
