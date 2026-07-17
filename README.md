@@ -7,4 +7,5 @@ I primarily work with gyms, fitness businesses, and local brands looking to gene
 If your website isn't bringing in inquiries, let's talk.
 
 www.samarbuild.com
+
 hello@samarbuild.com
