@@ -1,6 +1,6 @@
 # Hello, I'm Samar.
 
-I design and build modern, high-converting websites using Framer.
+I design and build modern, high-converting websites.
 
 Currently focused on helping businesses create websites that are fast, responsive, and conversion-driven.
 
