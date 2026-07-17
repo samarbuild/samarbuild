@@ -1,4 +1,4 @@
-# Hello, I'm Samar
+# Hello, I'm Samar.
 
 I design and build modern, high-converting websites using Framer.
 
@@ -20,6 +20,6 @@ Currently focused on helping businesses create websites that are fast, responsiv
 
 ## Let's Connect
 
-🌐 samarbuild.com
+🌐 www.samarbuild.com
 
 📧 hello@samarbuild.com
