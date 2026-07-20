@@ -20,6 +20,6 @@ Currently focused on helping businesses create websites that are fast, responsiv
 
 ## Let's Connect
 
-🌐 www.samarbuild.com
+🌐 www.beacons.ai/samarbuild
 
 📧 hello@samarbuild.com
