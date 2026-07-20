@@ -68,6 +68,6 @@ No obligation.
 
 Just practical advice you can use.
 
-🌐 beacons.ai/samarbuild
+🌐 www.beacons.ai/samarbuild
 
 📧 hello@samarbuild.com
