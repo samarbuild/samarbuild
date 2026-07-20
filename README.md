@@ -1,25 +1,73 @@
-# Hello, I'm Samar.
+# Hi, I'm Samar 👋
 
-I design and build modern, high-converting websites.
+I believe great software isn't measured by how it looks.
 
-Currently focused on helping businesses create websites that are fast, responsive, and conversion-driven.
+It's measured by what it helps people accomplish.
 
-## What I Do
+Today I'm helping businesses build high-converting websites while documenting my journey from Freelancer → Agency → SaaS Founder.
 
-• Business Websites
-• Landing Pages
-• Responsive UI
-• Website Redesigns
-• Framer Development
+---
 
-## Currently Learning
+## What I'm Building
 
-• Advanced Framer
-• Figma
-• MERN Stack
+- High-Converting Business Websites
+- Landing Pages
+- Website Systems
+- Design Processes
+- Business Workflows
 
-## Let's Connect
+Currently learning and building with Framer while expanding into full-stack development.
 
-🌐 www.beacons.ai/samarbuild
+---
+
+## Why Most Business Websites Fail
+
+Many websites:
+
+❌ Look good but don't convert.
+
+❌ Have no clear user journey.
+
+❌ Lack trust signals.
+
+❌ Don't communicate value quickly.
+
+❌ Miss opportunities to generate leads.
+
+Technology isn't the problem.
+
+Strategy usually is.
+
+---
+
+## How I Can Help
+
+Every project starts with understanding your business goals.
+
+Then we build a website focused on:
+
+✔ Better user experience
+
+✔ Higher conversion
+
+✔ Faster performance
+
+✔ Stronger trust
+
+✔ Clear business messaging
+
+---
+
+## Free Website Discovery Call
+
+If you're planning a new website or improving an existing one, I'd be happy to review it with you.
+
+No pressure.
+
+No obligation.
+
+Just practical advice you can use.
+
+🌐 beacons.ai/samarbuild
 
 📧 hello@samarbuild.com
