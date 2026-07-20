@@ -58,7 +58,7 @@ Then we build a website focused on:
 
 ---
 
-## Free Website Discovery Call
+## Free Discovery Call
 
 If you're planning a new website or improving an existing one, I'd be happy to review it with you.
 
